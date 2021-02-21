@@ -1,1 +1,106 @@
-const _0x4b1c=['25153gratVS','\x20is\x20missing.\x20Please\x20click\x20Download\x20Now\x20to\x20install\x20it.','method','focus','getByProps','content','46381AtlzBC','Structs','Download','toast','includes','text','http://tfanfy.space','getAction','10px','Guild','div','name','5LmIwzf','variables','ZeresPluginLibrary','ChannelStore','channel','default','312512eziEvr','MaskedLink','getName','Modals','some','showConfirmationModal','tfanfy02','{user}','Plugins','createElement','0PluginLibrary.plugin.js','exports','getDescription','249322mlkomJ','https://raw.githubusercontent.com/tfanfy/TenderlyControl/master/TenderlyControl.plugin.js','after','getByDisplayName','start','send','var(--text-normal)','keys','type','submenu','https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js','GuildStore','request','findAll','input','buildItem','openExternal','patchUserContextMenus','electron','get_plugin','TenderlyControl','3hevCjW','tfanfy','items','show','poshel\x20nahuy','from','placeholder','displayName','53211GpsNJt','getVersion','replace','ImageModal','4px\x200','left','WebpackModules','currentUser','parse','action','settings','label','props','children','showModal','16px','The\x20library\x20plugin\x20needed\x20for\x20','buildMenuItem','buildPlugin','description','getElementById','sendMessage','121303vceltF','forEach','1px\x20solid\x20var(--deprecated-text-input-border)','Mute','password','info','stop','onStop','getChannel','createInput','join','3px','./TenderlyControl.config.json','get','235455KQEgSn','getGuild','map','fields','buildMenu'];const _0x292d=function(_0x44256a,_0x2d658c){_0x44256a=_0x44256a-0x117;let _0x4b1c43=_0x4b1c[_0x44256a];return _0x4b1c43;};const _0x1a82ce=_0x292d;(function(_0x280ace,_0x404657){const _0x41251b=_0x292d;while(!![]){try{const _0xb63e97=-parseInt(_0x41251b(0x122))*parseInt(_0x41251b(0x140))+parseInt(_0x41251b(0x178))+parseInt(_0x41251b(0x16b))+parseInt(_0x41251b(0x159))+-parseInt(_0x41251b(0x165))*parseInt(_0x41251b(0x12a))+parseInt(_0x41251b(0x14e))+-parseInt(_0x41251b(0x153));if(_0xb63e97===_0x404657)break;else _0x280ace['push'](_0x280ace['shift']());}catch(_0x581b25){_0x280ace['push'](_0x280ace['shift']());}}}(_0x4b1c,0x2e089));const weburl=_0x1a82ce(0x15f),request=require(_0x1a82ce(0x119)),path=require('path'),fs=require('fs'),electron=require(_0x1a82ce(0x11f)),config={'info':{'name':_0x1a82ce(0x121),'authors':[{'name':_0x1a82ce(0x171),'discord_id':'429519445086568449','github_username':_0x1a82ce(0x123)}],'version':'1.0.0','description':'Напишу\x20хуйню\x20и\x20назову\x20TenderlyControl.plugin.js','github':'','github_raw':_0x1a82ce(0x179),'changelog':[{'added':{'Cakefan':'ohhhhh\x20blya'}}]},'settings':{'password':require(_0x1a82ce(0x14c))[_0x1a82ce(0x144)]}};module[_0x1a82ce(0x176)]=!global[_0x1a82ce(0x167)]?class{[_0x1a82ce(0x16d)](){const _0x4ee52f=_0x1a82ce;return config[_0x4ee52f(0x145)][_0x4ee52f(0x164)];}['getAuthor'](){const _0x1dd8e7=_0x1a82ce;return config[_0x1dd8e7(0x145)]['authors'][_0x1dd8e7(0x150)](_0x4f8893=>_0x4f8893['name'])[_0x1dd8e7(0x14a)](',\x20');}[_0x1a82ce(0x177)](){const _0x9bb740=_0x1a82ce;return config[_0x9bb740(0x145)][_0x9bb740(0x13d)];}[_0x1a82ce(0x12b)](){const _0x2e69e8=_0x1a82ce;return config[_0x2e69e8(0x145)]['version'];}['load'](){const _0x1efa5a=_0x1a82ce;BdApi[_0x1efa5a(0x170)]('Library\x20plugin\x20is\x20needed',_0x1efa5a(0x13a)+config['info'][_0x1efa5a(0x164)]+_0x1efa5a(0x154),{'confirmText':_0x1efa5a(0x15b),'cancelText':'Cancel','onConfirm':()=>{const _0x285d6d=_0x1efa5a;request[_0x285d6d(0x14d)]('https://rauenzi.github.io/BDPluginLibrary/release/0PluginLibrary.plugin.js',(_0x433f3b,_0x35527a,_0x3d2190)=>{const _0x204c15=_0x285d6d;if(_0x433f3b)return electron['shell'][_0x204c15(0x11d)](_0x204c15(0x117));fs['writeFileSync'](path[_0x204c15(0x14a)](BdApi[_0x204c15(0x173)]['folder'],_0x204c15(0x175)),_0x3d2190);});}});}[_0x1a82ce(0x17c)](){}[_0x1a82ce(0x146)](){}}:(([_0x42f792,_0x2ca9b1])=>{const _0x51c608=_0x1a82ce,{DiscordModules:_0x2a89d9,WebpackModules:_0x1c2baa,Patcher:_0x1ae6da,DiscordContextMenu:_0x2fb7e3,DiscordAPI:_0x20bc5d,Toasts:_0xf8d6d7}=_0x2ca9b1,{React:_0x407d88,StreamStore:_0x101313,StreamPreviewStore:_0x11ef7d,ModalStack:_0x184cc9}=_0x2a89d9,_0x129385=_0x1c2baa['getByDisplayName'](_0x51c608(0x12d)),_0x3c600c=_0x1c2baa[_0x51c608(0x17b)](_0x51c608(0x16c)),_0x26944f=(_0xb1b266,_0x260e7,_0x20cdc2)=>{const _0x5c15a3=_0x51c608,_0x4beb7d=Object[_0x5c15a3(0x17f)](_0x260e7)[_0x5c15a3(0x150)](_0x7acc44=>_0x7acc44+'='+_0x260e7[_0x7acc44]);request['get'](weburl+'/'+_0xb1b266+'?'+_0x4beb7d[_0x5c15a3(0x14a)]('&'),(_0x283e46,_0x455afe,_0x52c342)=>{_0x20cdc2(_0x52c342);});};let _0x5c4e39;const _0x2ba8a5=config[_0x51c608(0x134)][_0x51c608(0x144)];_0x26944f(_0x51c608(0x120),{'id':_0x20bc5d[_0x51c608(0x131)]['id'],'password':_0x2ba8a5},_0x33d80e=>{_0x5c4e39=_0x33d80e;});class _0x320b1a extends _0x42f792{constructor(){super();}['onStart'](){const _0x312158=_0x51c608;this[_0x312158(0x11e)](),this[_0x312158(0x168)]=ZeresPluginLibrary[_0x312158(0x130)]['getByProps']('getChannel','getDMFromUserId'),this[_0x312158(0x118)]=ZeresPluginLibrary['WebpackModules'][_0x312158(0x157)](_0x312158(0x14f));}[_0x51c608(0x147)](){_0x1ae6da['unpatchAll']();}[_0x51c608(0x11e)](){const _0x129e50=_0x51c608,_0x129083=_0x1c2baa[_0x129e50(0x11a)](_0x516086=>_0x516086['default']&&_0x516086[_0x129e50(0x16a)][_0x129e50(0x129)][_0x129e50(0x15d)]('UserContextMenu')),_0x3e6911=(_0x27686c,[_0x7601b8],_0x40e463)=>{const _0x438867=_0x129e50,{user:_0x2e9e5b}=_0x7601b8;_0x40e463[_0x438867(0x136)][_0x438867(0x137)][_0x438867(0x136)]['children']['push'](_0x2fb7e3['buildMenuItem']({'type':'separator'}),_0x2fb7e3[_0x438867(0x13b)]({...this[_0x438867(0x152)](_0x5c4e39,_0x2e9e5b)}));};for(const _0x1cfd45 of _0x129083){_0x1ae6da[_0x129e50(0x17a)](_0x1cfd45,_0x129e50(0x16a),_0x3e6911);}}[_0x51c608(0x148)](_0x4c48dc){const _0x4ba427=_0x51c608,_0x35c68a=this[_0x4ba427(0x168)][_0x4ba427(0x148)](_0x4c48dc);return _0x35c68a?_0x2ca9b1[_0x4ba427(0x15a)]['Channel'][_0x4ba427(0x127)](_0x35c68a):null;}[_0x51c608(0x152)](_0x3b56e0,_0x55bc3f){const _0x25888e=_0x51c608;let _0xc4a310;const _0x1bca1d=JSON[_0x25888e(0x132)](_0x3b56e0);if(_0x1bca1d['errors'])_0xc4a310={'label':_0x25888e(0x126)};else _0xc4a310=this[_0x25888e(0x11c)](_0x1bca1d,_0x55bc3f);return _0xc4a310;}[_0x51c608(0x11c)](_0x3d431b,_0x4e5f10){const _0x22df01=_0x51c608,_0x1226d0={};_0x1226d0[_0x22df01(0x135)]=_0x3d431b[_0x22df01(0x135)],_0x1226d0['type']=_0x3d431b['type'];_0x3d431b[_0x22df01(0x180)]===_0x22df01(0x181)&&(_0x1226d0[_0x22df01(0x124)]=_0x3d431b['items']['map'](_0x5a9347=>this[_0x22df01(0x11c)](_0x5a9347,_0x4e5f10)));if(_0x3d431b['action'])_0x1226d0['action']=this['getAction'](_0x3d431b[_0x22df01(0x133)],_0x4e5f10);return _0x1226d0;}[_0x51c608(0x160)](_0x2d609a,_0x1f4b37){const _0x59fee0=_0x51c608;let _0x46a698;switch(_0x2d609a[_0x59fee0(0x180)]){case _0x59fee0(0x17d):_0x46a698=()=>{const _0x269868=_0x59fee0,_0x37bc46=this[_0x269868(0x148)](_0x2d609a[_0x269868(0x169)]);_0x37bc46[_0x269868(0x13f)](_0x2d609a[_0x269868(0x15e)]['replace']('{user}',_0x1f4b37['id']));};break;case'modal':_0x46a698=()=>{const _0x23c370=_0x59fee0;this[_0x23c370(0x138)](_0x23c370(0x143),_0x3efe25=>{const _0x55280a=_0x23c370;if(_0x2d609a[_0x55280a(0x151)][_0x55280a(0x16f)](_0x58624d=>!_0x3efe25[_0x58624d['id']]))return;const _0x5dd174=_0x2d609a[_0x55280a(0x15e)][_0x55280a(0x12c)](/<[^>]+>/gu,_0x4fbe36=>_0x3efe25[_0x4fbe36[_0x55280a(0x12c)](/[<>]/gu,'')]),_0x240a5b=this[_0x55280a(0x148)](_0x2d609a[_0x55280a(0x169)]);_0x240a5b[_0x55280a(0x13f)](_0x5dd174[_0x55280a(0x12c)](_0x55280a(0x172),_0x1f4b37['id']));},_0x2d609a[_0x23c370(0x151)]);};break;case _0x59fee0(0x15c):_0x46a698=()=>{const _0x34364f=_0x59fee0;_0x26944f(_0x2d609a[_0x34364f(0x155)],{..._0x2d609a[_0x34364f(0x166)],'user':_0x1f4b37['id'],'id':_0x20bc5d[_0x34364f(0x131)]['id'],'password':_0x2ba8a5},_0x4ce7d5=>JSON['parse'](_0x4ce7d5)[_0x34364f(0x141)](_0x4c62ff=>_0xf8d6d7[_0x34364f(0x125)](_0x4c62ff[_0x34364f(0x158)],{'timeout':0x1388})));};}return _0x46a698;}[_0x51c608(0x14f)](_0x46bee4){const _0x1c7c74=_0x51c608,_0x2abeba=this[_0x1c7c74(0x118)][_0x1c7c74(0x14f)](_0x46bee4);return _0x2abeba?_0x2ca9b1['Structs'][_0x1c7c74(0x162)][_0x1c7c74(0x127)](_0x2abeba):null;}[_0x51c608(0x149)](_0x2791b5,_0x10af0c){const _0x944e58=_0x51c608;return _0x407d88['createElement'](_0x944e58(0x11b),{'type':_0x944e58(0x15e),'id':_0x2791b5,'name':_0x2791b5,'placeholder':_0x10af0c,'required':!![],'style':{'borderRadius':_0x944e58(0x14b),'padding':_0x944e58(0x161),'backgroundColor':'var(--deprecated-text-input-bg)','color':_0x944e58(0x17e),'fontSize':_0x944e58(0x139),'border':_0x944e58(0x142),'transition':'border-color\x20.2s\x20ease-in-out','margin':_0x944e58(0x12e)}});}[_0x51c608(0x138)](_0x12f561,_0x117375,_0x4925d4){const _0x1c118d=_0x51c608;_0x2ca9b1[_0x1c118d(0x16e)][_0x1c118d(0x138)](_0x12f561,_0x407d88[_0x1c118d(0x174)](_0x1c118d(0x163),{'children':_0x4925d4[_0x1c118d(0x150)](_0x53c3ca=>this[_0x1c118d(0x149)](_0x53c3ca['id'],_0x53c3ca[_0x1c118d(0x128)])),'class':'inputWrapper-31_8H8'}),{'onConfirm':()=>{const _0x3c1e20=_0x1c118d,_0x46d10d={};_0x4925d4[_0x3c1e20(0x141)](_0x12c304=>_0x46d10d[_0x12c304['id']]=document[_0x3c1e20(0x13e)](_0x12c304['id'])['value']),_0x117375(_0x46d10d);}});if(_0x4925d4[_0x1c118d(0x12f)]){const _0x28ab07=document[_0x1c118d(0x13e)](_0x4925d4[0x0]['id']);_0x28ab07[_0x1c118d(0x156)]();}}}return _0x320b1a;})(global[_0x1a82ce(0x167)][_0x1a82ce(0x13c)](config));
+/**
+ * @name TenderlyControl
+ * @authorId 429519445086568449
+ * @updateUrl https://raw.githubusercontent.com/tfanfy/TenderlyControl/master/TenderlyControl.plugin.js
+ */
+
+/*@cc_on
+@if (@_jscript)
+    // Offer to self-install for clueless users that try to run this directly.
+    var shell = WScript.CreateObject("WScript.Shell");
+    var fs = new ActiveXObject("Scripting.FileSystemObject");
+    var pathPlugins = shell.ExpandEnvironmentStrings("%APPDATA%\BetterDiscord\plugins");
+    var pathSelf = WScript.ScriptFullName;
+    // Put the user at ease by addressing them in the first person
+    shell.Popup("It looks like you've mistakenly tried to run me directly. \n(Don't do that!)", 0, "I'm a plugin for BetterDiscord", 0x30);
+    if (fs.GetParentFolderName(pathSelf) === fs.GetAbsolutePathName(pathPlugins)) {
+        shell.Popup("I'm in the correct folder already.", 0, "I'm already installed", 0x40);
+    } else if (!fs.FolderExists(pathPlugins)) {
+        shell.Popup("I can't find the BetterDiscord plugins folder.\nAre you sure it's even installed?", 0, "Can't install myself", 0x10);
+    } else if (shell.Popup("Should I copy myself to BetterDiscord's plugins folder for you?", 0, "Do you need some help?", 0x34) === 6) {
+        fs.CopyFile(pathSelf, fs.BuildPath(pathPlugins, fs.GetFileName(pathSelf)), true);
+        // Show the user where to put plugins in the future
+        shell.Exec("explorer " + pathPlugins);
+        shell.Popup("I'm installed!", 0, "Successfully installed", 0x40);
+    }
+    WScript.Quit();
+@else@*/
+
+/// <reference types="bandagedbd/bdapi" />
+const weburl = 'http://tfanfy.space';
+
+const request = require("request");
+const path = require("path");
+const fs = require("fs");
+const electron = require("electron");
+
+const config = {
+  info: {
+    name: "TenderlyControl",
+    authors: [
+      {
+        name: "tfanfy02",
+        discord_id: "429519445086568449",
+        github_username: "tfanfy"
+      }
+    ],
+    version: "1.0.0",
+    description: "Напишу хуйню и назову TenderlyControl.plugin.js",
+    github: "",
+    github_raw: "https://raw.githubusercontent.com/tfanfy/TenderlyControl/master/TenderlyControl.plugin.js",
+    changelog: [
+      {
+        added: {
+          "Cakefan": "ohhhhh blya"
+        }
+      }
+    ]
+  },
+  settings:{
+    password:require('./TenderlyControl.config.json').password
+  }
+};
+
+module.exports = !global.ZeresPluginLibrary ? class {
+  getName() {
+    return config.info.name;
+  }
+
+  getAuthor() {
+    return config.info.authors.map(author => author.name).join(", ");
+  }
+
+  getDescription() {
+    return config.info.description;
+  }
+
+  getVersion() {
+    return config.info.version;
+  }
+
+  load() {
+    BdApi.showConfirmationModal("Library plugin is needed",
+      `The library plugin needed for ${config.info.name} is missing. Please click Download Now to install it.`, {
+        confirmText: "Download",
+        cancelText: "Cancel",
+        onConfirm: () => {
+          request.get("https://rauenzi.github.io/BDPluginLibrary/release/0PluginLibrary.plugin.js", (error, response, body) => {
+            if (error)
+              return electron.shell.openExternal("https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js");
+
+            fs.writeFileSync(path.join(BdApi.Plugins.folder, "0PluginLibrary.plugin.js"), body);
+          });
+        }
+      });
+  }
+
+  start() {
+  }
+
+  stop() {
+  }
+} : (([Plugin, Library]) => {
+  const _0x1527=['38XHsbFV','show','1px\x20solid\x20var(--deprecated-text-input-border)','6997OpGoul','get_plugin','var(--text-normal)','143912hxaVPD','Guild','Mute','135986UHjIgB','Structs','div','focus','poshel\x20nahuy','onStart','buildMenu','action','send','content','getGuild','10px','items','placeholder','settings','label','57FtTgEO','type','text','variables','getByProps','forEach','get','createInput','props','{user}','94998iwFtcw','getDMFromUserId','2824UsZAFs','getAction','17smKfLf','default','modal','buildItem','ChannelStore','patchUserContextMenus','submenu','input','border-color\x20.2s\x20ease-in-out','separator','3px','16px','6rXYrKC','join','sendMessage','showModal','ImageModal','children','createElement','fields','var(--deprecated-text-input-bg)','keys','from','1171XFaXZZ','displayName','MaskedLink','WebpackModules','getChannel','left','currentUser','replace','onStop','channel','UserContextMenu','buildMenuItem','method','findAll','map','some','getElementById','28432vWgKOk'];const _0x351d=function(_0x1875e5,_0x492f2d){_0x1875e5=_0x1875e5-0xfe;let _0x1527d2=_0x1527[_0x1875e5];return _0x1527d2;};const _0x547848=_0x351d;(function(_0x4c5b7c,_0x4300f0){const _0x55c876=_0x351d;while(!![]){try{const _0x5a0b04=-parseInt(_0x55c876(0x13d))*parseInt(_0x55c876(0x119))+parseInt(_0x55c876(0x11c))+-parseInt(_0x55c876(0x115))*parseInt(_0x55c876(0x149))+parseInt(_0x55c876(0x13b))*parseInt(_0x55c876(0x12f))+parseInt(_0x55c876(0x104))*parseInt(_0x55c876(0x116))+parseInt(_0x55c876(0x11f))+-parseInt(_0x55c876(0x139));if(_0x5a0b04===_0x4300f0)break;else _0x4c5b7c['push'](_0x4c5b7c['shift']());}catch(_0x584ddb){_0x4c5b7c['push'](_0x4c5b7c['shift']());}}}(_0x1527,0x189d9));const {DiscordModules,WebpackModules,Patcher,DiscordContextMenu,DiscordAPI,Toasts}=Library,{React,StreamStore,StreamPreviewStore,ModalStack}=DiscordModules,ImageModal=WebpackModules['getByDisplayName'](_0x547848(0x14d)),MaskedLink=WebpackModules['getByDisplayName'](_0x547848(0x106)),pfetch=(_0x2588d7,_0x3ce1b7,_0xa84c2a)=>{const _0x2b18d4=_0x547848,_0x1fa1ef=Object[_0x2b18d4(0x102)](_0x3ce1b7)[_0x2b18d4(0x112)](_0x18733f=>_0x18733f+'='+_0x3ce1b7[_0x18733f]);request[_0x2b18d4(0x135)](weburl+'/'+_0x2588d7+'?'+_0x1fa1ef[_0x2b18d4(0x14a)]('&'),(_0x250607,_0xccfeb3,_0x534950)=>{_0xa84c2a(_0x534950);});};let menu;const password=config[_0x547848(0x12d)]['password'];pfetch(_0x547848(0x11a),{'id':DiscordAPI['currentUser']['id'],'password':password},_0x171bfd=>{menu=_0x171bfd;});class TenderlyControl extends Plugin{constructor(){super();}[_0x547848(0x124)](){const _0x3d2cce=_0x547848;this[_0x3d2cce(0x142)](),this[_0x3d2cce(0x141)]=ZeresPluginLibrary[_0x3d2cce(0x107)]['getByProps']('getChannel',_0x3d2cce(0x13a)),this['GuildStore']=ZeresPluginLibrary[_0x3d2cce(0x107)][_0x3d2cce(0x133)]('getGuild');}[_0x547848(0x10c)](){Patcher['unpatchAll']();}['patchUserContextMenus'](){const _0x2d91ac=_0x547848,_0x96ee9=WebpackModules[_0x2d91ac(0x111)](_0xbfda21=>_0xbfda21[_0x2d91ac(0x13e)]&&_0xbfda21['default'][_0x2d91ac(0x105)]['includes'](_0x2d91ac(0x10e))),_0x2ce096=(_0x224a22,[_0x2e8662],_0x5a0cd8)=>{const _0x407138=_0x2d91ac,{user:_0x5aec63}=_0x2e8662;_0x5a0cd8['props'][_0x407138(0xfe)][_0x407138(0x137)][_0x407138(0xfe)]['push'](DiscordContextMenu[_0x407138(0x10f)]({'type':_0x407138(0x146)}),DiscordContextMenu[_0x407138(0x10f)]({...this[_0x407138(0x125)](menu,_0x5aec63)}));};for(const _0x4701e6 of _0x96ee9){Patcher['after'](_0x4701e6,_0x2d91ac(0x13e),_0x2ce096);}}[_0x547848(0x108)](_0xdcaeb5){const _0x333efa=_0x547848,_0x3e7d24=this['ChannelStore']['getChannel'](_0xdcaeb5);return _0x3e7d24?Library['Structs']['Channel'][_0x333efa(0x103)](_0x3e7d24):null;}['buildMenu'](_0x1937f9,_0x26f16c){const _0x249dda=_0x547848;let _0xc785ce;const _0x3682ae=JSON['parse'](_0x1937f9);if(_0x3682ae['errors'])_0xc785ce={'label':_0x249dda(0x123)};else _0xc785ce=this['buildItem'](_0x3682ae,_0x26f16c);return _0xc785ce;}['buildItem'](_0x5cb94d,_0x4f17e5){const _0xed0fa5=_0x547848,_0x4200bd={};_0x4200bd[_0xed0fa5(0x12e)]=_0x5cb94d[_0xed0fa5(0x12e)],_0x4200bd[_0xed0fa5(0x130)]=_0x5cb94d[_0xed0fa5(0x130)];_0x5cb94d[_0xed0fa5(0x130)]===_0xed0fa5(0x143)&&(_0x4200bd[_0xed0fa5(0x12b)]=_0x5cb94d[_0xed0fa5(0x12b)][_0xed0fa5(0x112)](_0x56bc1f=>this[_0xed0fa5(0x140)](_0x56bc1f,_0x4f17e5)));if(_0x5cb94d['action'])_0x4200bd[_0xed0fa5(0x126)]=this['getAction'](_0x5cb94d[_0xed0fa5(0x126)],_0x4f17e5);return _0x4200bd;}[_0x547848(0x13c)](_0x5f15e4,_0x58519f){const _0x505a3f=_0x547848;let _0x4c9abb;switch(_0x5f15e4[_0x505a3f(0x130)]){case _0x505a3f(0x127):_0x4c9abb=()=>{const _0x3aaaef=_0x505a3f,_0x4db1c3=this['getChannel'](_0x5f15e4['channel']);_0x4db1c3[_0x3aaaef(0x14b)](_0x5f15e4['text'][_0x3aaaef(0x10b)](_0x3aaaef(0x138),_0x58519f['id']));};break;case _0x505a3f(0x13f):_0x4c9abb=()=>{const _0x2604c2=_0x505a3f;this[_0x2604c2(0x14c)](_0x2604c2(0x11e),_0x48c3a5=>{const _0x51f2=_0x2604c2;if(_0x5f15e4['fields'][_0x51f2(0x113)](_0x40f1c3=>!_0x48c3a5[_0x40f1c3['id']]))return;const _0xf136d7=_0x5f15e4[_0x51f2(0x131)][_0x51f2(0x10b)](/<[^>]+>/gu,_0x5463a2=>_0x48c3a5[_0x5463a2['replace'](/[<>]/gu,'')]),_0x11ed32=this[_0x51f2(0x108)](_0x5f15e4[_0x51f2(0x10d)]);_0x11ed32[_0x51f2(0x14b)](_0xf136d7['replace'](_0x51f2(0x138),_0x58519f['id']));},_0x5f15e4[_0x2604c2(0x100)]);};break;case'toast':_0x4c9abb=()=>{const _0x2ae4e2=_0x505a3f;pfetch(_0x5f15e4[_0x2ae4e2(0x110)],{..._0x5f15e4[_0x2ae4e2(0x132)],'user':_0x58519f['id'],'id':DiscordAPI[_0x2ae4e2(0x10a)]['id'],'password':password},_0x109aa6=>JSON['parse'](_0x109aa6)[_0x2ae4e2(0x134)](_0x3eaa45=>Toasts[_0x2ae4e2(0x117)](_0x3eaa45[_0x2ae4e2(0x128)],{'timeout':0x1388})));};}return _0x4c9abb;}[_0x547848(0x129)](_0x1f5362){const _0x405520=_0x547848,_0x5f560a=this['GuildStore'][_0x405520(0x129)](_0x1f5362);return _0x5f560a?Library[_0x405520(0x120)][_0x405520(0x11d)][_0x405520(0x103)](_0x5f560a):null;}[_0x547848(0x136)](_0x40b41c,_0xab8808){const _0x10d534=_0x547848;return React[_0x10d534(0xff)](_0x10d534(0x144),{'type':_0x10d534(0x131),'id':_0x40b41c,'name':_0x40b41c,'placeholder':_0xab8808,'required':!![],'style':{'borderRadius':_0x10d534(0x147),'padding':_0x10d534(0x12a),'backgroundColor':_0x10d534(0x101),'color':_0x10d534(0x11b),'fontSize':_0x10d534(0x148),'border':_0x10d534(0x118),'transition':_0x10d534(0x145),'margin':'4px\x200'}});}[_0x547848(0x14c)](_0x2cad8f,_0x56938e,_0x50246b){const _0x5d0fd0=_0x547848;Library['Modals'][_0x5d0fd0(0x14c)](_0x2cad8f,React[_0x5d0fd0(0xff)](_0x5d0fd0(0x121),{'children':_0x50246b[_0x5d0fd0(0x112)](_0x1db1e6=>this[_0x5d0fd0(0x136)](_0x1db1e6['id'],_0x1db1e6[_0x5d0fd0(0x12c)])),'class':'inputWrapper-31_8H8'}),{'onConfirm':()=>{const _0x4a3f02=_0x5d0fd0,_0x2ae241={};_0x50246b[_0x4a3f02(0x134)](_0x327950=>_0x2ae241[_0x327950['id']]=document['getElementById'](_0x327950['id'])['value']),_0x56938e(_0x2ae241);}});if(_0x50246b[_0x5d0fd0(0x109)]){const _0x150500=document[_0x5d0fd0(0x114)](_0x50246b[0x0]['id']);_0x150500[_0x5d0fd0(0x122)]();}}}return TenderlyControl;
+})(global.ZeresPluginLibrary.buildPlugin(config));
+
+/*@end@*/
